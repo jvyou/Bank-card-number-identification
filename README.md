@@ -1,5 +1,5 @@
 # Bank-card-number-identification
-基于opencv-python轮廓匹配的银行卡号识别
+基于opencv-python模板匹配的银行卡号识别
 
 images文件夹中为待识别的银行卡和数字模板
 
